@@ -36,4 +36,40 @@ Para mais informações acesse [Aula 06: Vetores e Matrizes.](https://cainaantun
     
     > <font color="red"> **Restrição:** utilizar apenas um vetor e uma variável auxiliar </font>
 
-7. Receber uma matriz 5x5 e encontrar a maior soma entre suas colunas e a maior somaentre suas linhas.8. Declare e inicialize uma matriz 5x5 em seguida exiba sua diagonal principal.9. Declare e inicialize uma matriz 5x5 em seguida exiba sua diagonal secundária.10. Declare e inicialize duas matrizes uma 3x2 e outra 2x2, em seguida gere a matriz produtoentre as duas matrizes.Exemplo de como calcular a matriz produto:11. Aperfeiçoe o exercício anterior solicitando para que o usuário informe o tamanho dasmatrizes a serem multiplicadas. Valide se é possível calcular a matriz produto.A multiplicação de matrizes só é possível quando o número de colunas da primeira matrizé igual ao número de linhas da segunda matriz. Se a multiplicação existir, a matriz produtoterá a quantidade de linhas da primeira matriz e a quantidade de colunas da segundamatrizApós a validação peça para o usuário inserir os valores de cada matriz e então gere amatriz produto12. Declare e inicialize uma matriz 3x3 e calcule a sua determinante.
+7. Receber uma matriz 5x5 e encontrar a maior soma entre suas colunas e a maior somaentre suas linhas.
+
+8. Declare e inicialize uma matriz 5x5 em seguida exiba sua diagonal principal.
+
+9. Declare e inicialize uma matriz 5x5 em seguida exiba sua diagonal secundária.
+
+10. Declare e inicialize duas matrizes uma 3x2 e outra 2x2, em seguida gere a matriz produto entre as duas matrizes.
+Exemplo de como calcular a matriz produto:
+
+    $
+    \begin{bmatrix}
+    a_{11} & a_{12} \\
+    a_{21} & a_{22} \\
+    a_{31} & a_{32} \\
+    \end{bmatrix}.
+    \begin{bmatrix}
+    b_{11} & b_{12} \\
+    b_{21} & b_{22} \\
+    \end{bmatrix}=
+     \begin{bmatrix}
+    a_{11}.b_{11}+a_{12}.b_{21} & a_{11}.b_{12}+a_{12}.b_{22} \\
+    a_{21}.b_{11}+a_{22}.b_{21} & a_{21}.b_{12}+a_{22}.b_{22} \\
+    a_{31}.b_{11}+a_{32}.b_{21} & a_{31}.b_{12}+a_{32}.b_{22} \\
+    \end{bmatrix}
+    $
+
+11. Aperfeiçoe o exercício anterior solicitando para que o usuário informe o tamanho das matrizes a serem multiplicadas. 
+
+    Valide se é possível calcular a matriz produto.
+
+    > A multiplicação de matrizes só é possível quando o número de colunas da primeira matrizé igual ao número de linhas da segunda matriz. 
+    
+    Se a multiplicação existir, a matriz produto terá a quantidade de linhas da primeira matriz e a quantidade de colunas da segundamatriz.
+    
+    Após a validação peça para o usuário inserir os valores de cada matriz e então gere amatriz produto
+    
+12. Declare e inicialize uma matriz 3x3 e calcule a sua determinante.
