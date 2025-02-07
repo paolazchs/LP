@@ -8,7 +8,7 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)
 ___
 
 
-> O objetivo desta aula é exercitar o raciocínio lógico para a criação de algoritmos.  
+> O objetivo desta aula é exercitar o raciocínio lógico para a criação de algoritmos através de fluxogramas.  
 
 O fluxo de um algorítmo poder ser representado graficamente através de fluxogramas. Um conjunto de símbolos, representam cada ação realizada pelo programa, além disso, setas conectam estes símbolos uns com os outros indicando a sequencia em que as ações são executadas.
 
