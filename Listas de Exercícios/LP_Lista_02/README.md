@@ -1,7 +1,7 @@
 ![senai_logo](https://transparencia.sp.senai.br/Content/img/logo-senai.png)
 
 # Lista de Exercícios 02: variáveis e operadores lógicos/aritméticos 
-___
+
 Profº.: Cainã Antunes Silva  
 Faculdade de Tecnologia **SENAI Sorocaba**  
 Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)

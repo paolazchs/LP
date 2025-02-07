@@ -2,7 +2,6 @@
 
 # Lista de Exercícios 04: Estruturas de Repetição 
 
-___
 Profº.: Cainã Antunes Silva  
 Faculdade de Tecnologia **SENAI Sorocaba**  
 Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)
@@ -13,7 +12,7 @@ ___
 
 Estruturas de repetição, como for, ```while``` e ```do-while```, permitem a execução repetida de um bloco de código enquanto uma condição for verdadeira, tornando os programas mais eficientes e evitando redundâncias. Elas são essenciais para automatizar tarefas repetitivas, processar grandes volumes de dados e iterar sobre coleções, reduzindo a necessidade de escrita manual de código e melhorando a legibilidade e manutenção dos programas.
 
-Para mais informações acesse [Aula 05: Estruturas de repetição.]()
+Para mais informações acesse [Aula 05: Estruturas de repetição.](https://cainaantunes.notion.site/Aula-05-Estruturas-de-repeti-o-189bde521b3b80078888c7e491d7a79e?pvs=4)
 
 ***
 
