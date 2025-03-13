@@ -17,19 +17,19 @@ Para mais informações acesse [Aula 03: Fluxogramas.](https://cainaantunes.noti
 ***
 
 1. Ler um número inteiro e exibir o seu dobro.
-
+![Exercício 1](./img/ex1.png)
 2. Ler um número inteiro e exibir o seu quadrado.
-
+![Exercício 2](./img/ex2.png)
 3. Ler um número real e exibir a quinta parte deste número.
-
+![Exercício 3](./img/ex3.png)
 4. Ler duas notas N1 e N2 e exibir a média.
-
+![Exercício 4](./img/ex4.png)
 5. Ler uma velocidade em $Km/h$ e converter para $m/s$.
-
+![Exercício 5](./img/ex5.png)
 6. Ler uma velocidade em $m/s$ e converter para $km/h$.
-
+![Exercício 6](./img/ex6.png)
 7. Ler uma medida em milímetro e converter para polegadas.
-
+![Exercício 7](./img/ex7.png)
 8. Ler uma medida em polegadas e converter para milímetros.
 
 9. Ler uma medida de distância em quilômetros e converter 
