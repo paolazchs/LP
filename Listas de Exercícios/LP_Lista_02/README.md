@@ -106,6 +106,6 @@ para milhas.
       Então: <br>
       $(x -1) . (x -2)$ <br>
       Logo: <br>
-      $x2 -3x -2 = 0$ <br>
+      $x2 -3x -2 = 0$ 
 
       ![Exercício 20](./img/ex20.png)
