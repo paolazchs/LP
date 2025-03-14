@@ -101,5 +101,11 @@ para milhas.
 
 20. Descobrir uma equação do segundo grau a partir de suas raízes:
 
+      >Exemplo: <br>
+      $x1 = 1$ e $x2 = 2$ <br>
+      Então: <br>
+      $(x -1) . (x -2)$ <br>
+      Logo: <br>
+      $x2 -3x -2 = 0$ <br>
 
       ![Exercício 20](./img/ex20.png)
