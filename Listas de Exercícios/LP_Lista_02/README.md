@@ -31,35 +31,36 @@ Para mais informações acesse [Aula 03: Fluxogramas.](https://cainaantunes.noti
 7. Ler uma medida em milímetro e converter para polegadas.
 ![Exercício 7](./img/ex7.png)
 8. Ler uma medida em polegadas e converter para milímetros.
-
+![Exercício 8](./img/ex8.png)
 9. Ler uma medida de distância em quilômetros e converter 
 para milhas.
+![Exercício 9](./img/ex9.png)
 10. Ler uma medida de distância em milhas e converter para quilômetros.
-
+![Exercício 10](./img/ex10.png)
 11. Entrar com o valor de temperatura em graus Celsius e exibir a temperaturacorrespondente em graus Fahrenheit.
-
+![Exercício 11](./img/ex11.png)
 12. Ler duas notas N1 e N2 e exibir a média. 
 
       >Obs.: N1 tem peso 1 e N2 tem peso 2 e resultadodeve estar entre 0 e 10.
-
+![Exercício 12](./img/ex12.png)
 13. Receber o raio e um círculo e calcular sua área.
-
+![Exercício 13](./img/ex13.png)
 14. Receber a base e a altura de um triângulo retângulo e calcular sua área.
-
+![Exercício 14](./img/ex14.png)
 15. Receber o raio e a altura de um cilindro e calcular seu volume.
-
+![Exercício 15](./img/ex15.png)
 16. Receber o raio e a altura de um cone e calcular seu volume.
-
+![Exercício 16](./img/ex16.png)
 17. Receber velocidade inicial, aceleração e tempo de percurso de um corpo e calcular sua velocidade.
-
+![Exercício 17](./img/ex17.png)
 18. Receber os coeficientes $a$ e $b$ de uma equação do primeiro grau e imprimir a solução.
 
       >Equação do primeiro grau: $ax + b = 0$
-
+![Exercício 18](./img/ex18.png)
 19. Receber os coeficientes $a$, $b$ e $c$ de uma equação do segundo grau e imprimir a solução.
 
       >Equação do segundo grau: $ax^2 + bx + c = 0$
-
+![Exercício 19](./img/ex19.png)
 20. Descobrir uma equação do segundo grau a partir de suas raízes:
 
       >Exemplo: <br>
@@ -68,3 +69,4 @@ para milhas.
       $(x -1) . (x -2)$ <br>
       Logo: <br>
       $x2 -3x -2 = 0$ <br>
+      ![Exercício 20](./img/ex20.png)
