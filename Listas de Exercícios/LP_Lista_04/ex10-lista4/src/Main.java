@@ -8,7 +8,7 @@ public class Main {
         int n = scanner.nextInt();
 
         if (n <= 0) {
-            System.out.println("Por favor, digite um número maior que zero.");
+            System.out.println("Digite um número maior que zero.");
         } else {
             int termo1 = 0;
             int termo2 = 1;
