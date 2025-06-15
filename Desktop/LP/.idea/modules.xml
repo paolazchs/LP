@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/LP.iml" filepath="$PROJECT_DIR$/.idea/LP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/LP_Lista_02.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/LP_Lista_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/LP_Lista_03.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/LP_Lista_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/LP_Lista_04.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/LP_Lista_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_05/LP_Lista_05.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_05/LP_Lista_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_06/LP_Lista_06.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_06/LP_Lista_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex1/ex1.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex1/ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex1-lista2/ex1-lista2.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex1-lista2/ex1-lista2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/ex1-lista3/ex1-lista3.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/ex1-lista3/ex1-lista3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/ex1-lista4/ex1-lista4.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/ex1-lista4/ex1-lista4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_05/ex1-lista5/ex1-lista5.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_05/ex1-lista5/ex1-lista5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_06/ex1-lista6/ex1-lista6.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_06/ex1-lista6/ex1-lista6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex10/ex10.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex10/ex10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex10-lista2/ex10-lista2.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex10-lista2/ex10-lista2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/ex10-lista3/ex10-lista3.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/ex10-lista3/ex10-lista3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/ex10-lista4/ex10-lista4.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/ex10-lista4/ex10-lista4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_05/ex10-lista5/ex10-lista5.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_05/ex10-lista5/ex10-lista5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex11/ex11.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex11/ex11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex11-lista2/ex11-lista2.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex11-lista2/ex11-lista2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/ex11-lista3/ex11-lista3.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/ex11-lista3/ex11-lista3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_05/ex11-lista5/ex11-lista5.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_05/ex11-lista5/ex11-lista5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex12/ex12.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex12/ex12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex12-lista2/ex12-lista2.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex12-lista2/ex12-lista2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/ex12-lista3/ex12-lista3.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/ex12-lista3/ex12-lista3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_05/ex12-lista5/ex12-lista5.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_05/ex12-lista5/ex12-lista5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex13/ex13.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex13/ex13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex13-lista2/ex13-lista2.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex13-lista2/ex13-lista2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/ex13-lista3/ex13-lista3.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/ex13-lista3/ex13-lista3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex14/ex14.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex14/ex14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex14-lista2/ex14-lista2.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex14-lista2/ex14-lista2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/ex14-lista3/ex14-lista3.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/ex14-lista3/ex14-lista3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex15/ex15.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex15/ex15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex15-lista2/ex15-lista2.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex15-lista2/ex15-lista2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/ex15-lista3/ex15-lista3.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/ex15-lista3/ex15-lista3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex16/ex16.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex16/ex16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex16-lista2/ex16-lista2.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex16-lista2/ex16-lista2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex17/ex17.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex17/ex17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex17-lista2/ex17-lista2.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex17-lista2/ex17-lista2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex18/ex18.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex18/ex18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex18-lista2/ex18-lista2.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex18-lista2/ex18-lista2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex19/ex19.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex19/ex19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex19-lista2/ex19-lista2.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex19-lista2/ex19-lista2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_06/ex1recursividade-lista6/ex1recursividade-lista6.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_06/ex1recursividade-lista6/ex1recursividade-lista6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex2-lista2/ex2-lista2.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex2-lista2/ex2-lista2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/ex2-lista3/ex2-lista3.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/ex2-lista3/ex2-lista3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/ex2-lista4/ex2-lista4.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/ex2-lista4/ex2-lista4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_05/ex2-lista5/ex2-lista5.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_05/ex2-lista5/ex2-lista5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_06/ex2-lista6/ex2-lista6.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_06/ex2-lista6/ex2-lista6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex20/ex20.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex20/ex20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex20-lista2/ex20-lista2.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex20-lista2/ex20-lista2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_06/ex2recursividade-lista6/ex2recursividade-lista6.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_06/ex2recursividade-lista6/ex2recursividade-lista6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex3-lista2/ex3-lista2.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex3-lista2/ex3-lista2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/ex3-lista3/ex3-lista3.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/ex3-lista3/ex3-lista3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/ex3-lista4/ex3-lista4.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/ex3-lista4/ex3-lista4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_05/ex3-lista5/ex3-lista5.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_05/ex3-lista5/ex3-lista5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_06/ex3-lista6/ex3-lista6.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_06/ex3-lista6/ex3-lista6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_06/ex3recursividade-lista6/ex3recursividade-lista6.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_06/ex3recursividade-lista6/ex3recursividade-lista6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex4-lista2/ex4-lista2.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex4-lista2/ex4-lista2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/ex4-lista3/ex4-lista3.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/ex4-lista3/ex4-lista3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/ex4-lista4/ex4-lista4.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/ex4-lista4/ex4-lista4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_05/ex4-lista5/ex4-lista5.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_05/ex4-lista5/ex4-lista5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_06/ex4-lista6/ex4-lista6.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_06/ex4-lista6/ex4-lista6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_06/ex4recursividade-lista6/ex4recursividade-lista6.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_06/ex4recursividade-lista6/ex4recursividade-lista6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex5-lista2/ex5-lista2.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex5-lista2/ex5-lista2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/ex5-lista3/ex5-lista3.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/ex5-lista3/ex5-lista3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/ex5-lista4/ex5-lista4.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/ex5-lista4/ex5-lista4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_05/ex5-lista5/ex5-lista5.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_05/ex5-lista5/ex5-lista5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_06/ex5-lista6/ex5-lista6.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_06/ex5-lista6/ex5-lista6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_06/ex5recursividade-lista6/ex5recursividade-lista6.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_06/ex5recursividade-lista6/ex5recursividade-lista6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex6/ex6.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex6/ex6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex6-lista2/ex6-lista2.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex6-lista2/ex6-lista2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/ex6-lista3/ex6-lista3.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/ex6-lista3/ex6-lista3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/ex6-lista4/ex6-lista4.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/ex6-lista4/ex6-lista4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_05/ex6-lista5/ex6-lista5.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_05/ex6-lista5/ex6-lista5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex7/ex7.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex7/ex7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex7-lista2/ex7-lista2.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex7-lista2/ex7-lista2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/ex7-lista3/ex7-lista3.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/ex7-lista3/ex7-lista3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/ex7-lista4/ex7-lista4.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/ex7-lista4/ex7-lista4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_05/ex7-lista5/ex7-lista5.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_05/ex7-lista5/ex7-lista5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex8/ex8.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex8/ex8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex8-lista2/ex8-lista2.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex8-lista2/ex8-lista2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/ex8-lista3/ex8-lista3.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/ex8-lista3/ex8-lista3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/ex8-lista4/ex8-lista4.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/ex8-lista4/ex8-lista4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_05/ex8-lista5/ex8-lista5.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_05/ex8-lista5/ex8-lista5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex9/ex9.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex9/ex9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex9-lista2/ex9-lista2.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/ex9-lista2/ex9-lista2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/ex9-lista3/ex9-lista3.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/ex9-lista3/ex9-lista3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/ex9-lista4/ex9-lista4.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/ex9-lista4/ex9-lista4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_05/ex9-lista5/ex9-lista5.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_05/ex9-lista5/ex9-lista5.iml" />
+    </modules>
+  </component>
+</project>
